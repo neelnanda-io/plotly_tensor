@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "plotly_tensor"
+  site-url: "https://neelnanda-io.github.io/plotly_tensor"
+  description: "A wrapper around Plotly for various utilities with Mechanistic Interpretability Research"
+  repo-branch: main
+  repo-url: "https://github.com/neelnanda-io/plotly_tensor"
